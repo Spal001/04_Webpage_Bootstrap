@@ -1,0 +1,52 @@
+.navbar-brand{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.nav-item{
+    word-spacing: 80px;
+}
+.heading{
+    margin-top: 140px;
+    margin-left: auto;
+    font-size: 70px;
+    padding-left: 100px;
+}
+.little{
+    margin-left: 25px;
+    font-size: 20px;
+    padding-left: 100px;
+    color: gray;
+}
+.down{
+    margin-top: 10px;
+    margin-left: 125px;
+    padding-bottom: 9%;
+}
+.button{
+    background-color:black;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    width: 5%%;
+    padding: 15px 15px;
+}
+.button:hover{
+    color:gray;
+}
+.container{
+    text-align: auto;
+}
+/* .container:row g-0{
+    padding-top: 2%;
+    text-align: left;
+} */
+.head{
+    margin-left: 15%;
+    margin-top: 7%;
+}
+.paragraph{
+    margin-left: 15%;
+    font-size: 20px;
+    color: gray;
+    margin-top: 3%;
+}
